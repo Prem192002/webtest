@@ -3,7 +3,7 @@
 const student = {
     name : "rahul",
     age : 20,
-    class:12,
+    class:10,
     school: "DAV"
 };
 
