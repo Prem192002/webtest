@@ -7,5 +7,5 @@ const student = {
     school: "DAV"
 };
 
-student.age = student.age+3;
+student.age = student.age+1;
 console.log(student);
